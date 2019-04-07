@@ -1,0 +1,8 @@
+package pl.webapp.czgorzproj;
+
+public class WebApp {
+	public String showName()
+	{
+		return "Rados³aw Czarnecki | Kacper Gorzkowski";
+	}
+}

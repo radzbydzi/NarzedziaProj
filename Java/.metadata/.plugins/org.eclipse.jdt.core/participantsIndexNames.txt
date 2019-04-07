@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\NarzêdziaUTP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\497753104.index
+\WebApp2Client\src
+C:\NarzêdziaUTP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2656222900.index
+\webproject\src\main\resources

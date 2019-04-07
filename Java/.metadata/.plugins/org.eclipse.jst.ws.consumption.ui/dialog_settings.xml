@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.jst.ws.client.type.java">
+		<item value="/WebAplication2/WebContent/wsdl/WebApp.wsdl"/>
+	</list>
+	<list key="org.eclipse.jst.ws.internal.consumption.ui.widgets.test.ClientTestWidget.sampleFolderText_">
+		<item value="sampleWebAppProxy"/>
+	</list>
+</section>

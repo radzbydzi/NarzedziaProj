@@ -1,0 +1,10 @@
+cognitoIdentityId=us-east-1\:49ee127d-6d21-40d5-a128-d248709ffc2a
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=f152e225-19c8-4f1f-80e3-fe59bd8d800b
+currentAccount=f152e225-19c8-4f1f-80e3-fe59bd8d800b
+currentDefaultAccount=f152e225-19c8-4f1f-80e3-fe59bd8d800b
+eb333f62-1caf-4e2e-b244-a9de8fdd9434\:credentialProfileName=default
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+f152e225-19c8-4f1f-80e3-fe59bd8d800b\:credentialProfileName=default
+toolkitAnalyticsCollectionEnabled=false

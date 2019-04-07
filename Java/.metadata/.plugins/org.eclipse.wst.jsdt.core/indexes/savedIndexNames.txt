@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\NarzêdziaUTP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+995298387.index
+2656222900.index
+2862820195.index
